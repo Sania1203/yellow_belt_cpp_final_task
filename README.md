@@ -1,4 +1,5 @@
 This is my final project for C++ yellow belt - Database for pairs date - event.
+
 Commands:
 Add <date> <event>;
 Print;
